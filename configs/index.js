@@ -1,0 +1,9 @@
+export const BASE = "#27C97D";
+export const PRYMARY = "#000";
+export const NEGRO = "#0D0D0D";
+export const SECUNDARY = "#444352";
+export const GRAY_DEFAULT = "#252525";
+export const GRAY_LIGTH = "#CECDD2";
+export const LIGTH = "#FFF";
+export const DEFAULT = 10;
+export const FUNDO = require('../assets/imgs/PatternBlack.png');
